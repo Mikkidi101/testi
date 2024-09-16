@@ -2,4 +2,5 @@ Tänään on maanantai
 Oli töitä aamulla
 Nyt on koulua
 illalla mennään fribaamaan
-Ja sit pitää mennä nukkumaan
+oma muokkaus koneella
+
